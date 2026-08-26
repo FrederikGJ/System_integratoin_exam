@@ -3,4 +3,4 @@
 Gruppe:
 - Mahdi Karimi
 - Lukas Rønberg
--Frederik Johannessen
+- Frederik Johannessen
